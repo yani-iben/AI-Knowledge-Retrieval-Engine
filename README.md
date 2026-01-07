@@ -10,7 +10,7 @@ A Streamlit-based application that allows users to **upload PDFs and ask questio
 
 A short video demonstrating the app’s functionality is included in this repository:
 
-- [Download / Play the Demo Video](demo/pdf_chat_demo.mp4)
+- [Download / Play the Demo Video]([demo/pdf_chat_demo.mp4](https://github.com/yani-iben/AI-Knowledge-Retrieval-Engine/blob/main/Chat%20with%20Pdfs%20Demo%20(1).mp4))
 
 **Features shown in the demo:**
 - Uploading multiple PDF documents
