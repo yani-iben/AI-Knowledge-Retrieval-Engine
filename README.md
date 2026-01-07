@@ -34,10 +34,4 @@ A short video demonstrating the app’s functionality is included in this reposi
 
 ---
 
-## Local Setup Instructions
 
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/yourusername/AI-Knowledge-Retrieval-Engine.git
-cd AI-Knowledge-Retrieval-Engine
